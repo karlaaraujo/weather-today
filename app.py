@@ -28,7 +28,7 @@ def login():
 @app.route('/home')
 def home():
     data = datetime.datetime.now()
-    usuarios = ['Flávio', 'Isabella', 'João', 'Maria']
+    usuarios = ['Karla', 'Fernanda', 'Sarah', 'Failesmen', 'Junior']
     mostrarUsuarios = True
     return render_template('home.html', dataAtual=data, usuarios=usuarios, mostrarUsuarios=mostrarUsuarios)
 
