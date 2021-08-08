@@ -14,3 +14,8 @@ Projeto para a web feito com Python e Flask proposto para a matéria de Análise
  - ``pip install .\requirements.txt``, para instalar as dependencias do projeto, declaradas no arquivo "requirements.txt";  
 
 5. Rodar o programa digitando ``python app.py``.
+
+### Color Palette
+https://colorhunt.co/palette/64c9cffde49cffb740df711b
+
+![Color Hunt Palette](https://user-images.githubusercontent.com/52178816/128642383-6aad8099-1746-4c69-bd75-5e16cfd8d88e.png)
