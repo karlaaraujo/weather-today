@@ -23,7 +23,7 @@ def helloWorld():
 
 @app.route('/login')
 def login():
-    return render_template('index.html')
+    return render_template('index2.html')
 
 @app.route('/home')
 def home():
