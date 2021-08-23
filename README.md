@@ -1,4 +1,4 @@
-# ifal-python-flask-project
+# ifal-apsw-flask-project
 Projeto para a web feito com Python e Flask proposto para a matéria de Análise e Projeto de Software (IFAL)
 
 ### Como utilizar na máquina local:
